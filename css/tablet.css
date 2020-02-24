@@ -1,0 +1,11 @@
+/* ./css/tablet.css */
+
+section {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+section > article {
+    margin: 20px 0;
+    width: calc(50% - 30px);
+}
