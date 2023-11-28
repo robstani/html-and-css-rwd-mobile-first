@@ -1,22 +1,2 @@
 /* ./css/mobile.css */
 
-header {
-    background-color: #ffffba;
-    height: 80px;
-    
-}
-
-main {
-    background: #ffdfba;
-    min-height: calc(100vh - 80px);
-}
-
-section {
-    border: none;
-}
-
-section > article {
-    background-color: #baffc9;
-    margin: 20px;
-    min-height: calc(50vh - 30px);
-}
